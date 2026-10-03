@@ -1,0 +1,13 @@
+{
+    "Students": [
+        {
+            "name": "Shrishti Tiwari",
+            "age": 20,
+            "grade": "12",
+            "email": "shrishti@gmail.com",
+            "roll_number": "0905Al241090",
+            "grades": {}
+        }
+    ],
+    "Teachers": []
+}
